@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585823041090",
+    "firebase_url": "https://app-pizzeria-e142a.firebaseio.com",
+    "project_id": "app-pizzeria-e142a",
+    "storage_bucket": "app-pizzeria-e142a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585823041090:android:842b99179e5c6f55281fdb",
+        "android_client_info": {
+          "package_name": "com.example.aplicacionpizzeria_act"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585823041090-m93kqr2tnphpabjgt9ihdvddag7f43r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_ZvEh-gZYweM7V1MnxB_TUOSl4qIyLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585823041090-m93kqr2tnphpabjgt9ihdvddag7f43r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
